@@ -4,11 +4,11 @@ and I'm a full stack developer, looking for full time work. Here are some of my 
 
 ## Today's Code is brought to you by:
 
-[<span color="green">W3 Schools](https://www.w3schools.com/)
-[freeCodeCamp](https://www.freecodecamp.org/)
-[the Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-[Netlify](https://www.netlify.com/)
-[Heroku](https://www.heroku.com/
+[<span color="green">W3 Schools](https://www.w3schools.com/)  
+  [freeCodeCamp](https://www.freecodecamp.org/)  
+  [the Mozilla Developer Network](https://developer.mozilla.org/en-US/)  
+  [Netlify](https://www.netlify.com/)  
+  [Heroku](https://www.heroku.com/)
 
 😳 (more to come) 😳
 
