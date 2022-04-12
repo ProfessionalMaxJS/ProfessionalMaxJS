@@ -1,6 +1,6 @@
 My name is 
 # Max
-and I'm a full stack developer, looking for full time work. Here are some of my favorite projects in the meantime:
+and I'm a full stack developer, looking for full time work. 
 
 ## Today's Code is brought to you by:
 
