@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# My name is **Max** and I'm a full stack developer, looking for full time work. 
+# My name is **Max** and I'm a full stack developer. 
 
 ### Reach me here:
 [LinkedIn](https://www.linkedin.com/in/maxees/)
