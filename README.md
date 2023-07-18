@@ -44,7 +44,6 @@
 [freeCodeCamp](https://www.freecodecamp.org/)    
 [the Mozilla Developer Network](https://developer.mozilla.org/en-US/)  
 [Netlify](https://www.netlify.com/)  
-[Heroku](https://www.heroku.com/)  
 [Vim Adventures](https://vim-adventures.com/)
 
 <!--
